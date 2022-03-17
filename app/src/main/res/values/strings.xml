@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resistor Code</string>
+    <string name="btn_SubmitName">Submit</string>
+    <string name="btn_Reset">Reset</string>
+    <string name="btn_Copy">Copy</string>
+    <string name="hintSetColor">Set the colors</string>
+    <string name="resistorDefault">Resistor Value</string>
+    <string name="toleranceDefault">Tolerance</string>
+    <string name="copiedMsg">Copied to Clipboard</string>
+    <string name="copyright">© 2021 Bermin Agovic, Elias Schirnick</string>
+    <string name="issue">There need to be a color for tolerance, multiplicator and one or more values</string>
+</resources>

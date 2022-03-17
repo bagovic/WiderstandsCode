@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Widerstandscode</string>
+    <string name="btn_SubmitName">Berechnen</string>
+    <string name="btn_Reset">Löschen</string>
+    <string name="btn_Copy">Kopieren</string>
+    <string name="hintSetColor">Wählen Sie die Farben aus</string>
+    <string name="resistorDefault">Widerstand</string>
+    <string name="toleranceDefault">Toleranz</string>
+    <string name="copiedMsg">In Zwischenablage gespeichert</string>
+    <string name="copyright">© 2021 Bermin Agovic, Elias Schirnick</string>
+    <string name="issue">Es müssen Farben für Toleranz, Multiplikator und für mindestens einen Wert gesetzt sein</string>
+</resources>
